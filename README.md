@@ -125,7 +125,7 @@ int main() {
 ## OUTPUT
 
 
-![image](https://github.com/user-attachments/assets/d6ff498b-3e40-4bb1-a3af-3492a413842c)
+![image](https://github.com/user-attachments/assets/e83a9644-5af5-463b-9cc5-c334408c787c)
 
 
 
